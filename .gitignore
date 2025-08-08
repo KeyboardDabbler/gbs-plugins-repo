@@ -1,0 +1,31 @@
+# Build outputs
+bin/
+obj/
+*.dll
+*.pdb
+*.xml
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.vs/
+*.user
+*.userprefs
+*.suo
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Plugin packages
+*.zip
+Release/

@@ -1,0 +1,21 @@
+[
+  {
+    "guid": "F8B2E4C6-A1D3-4E5F-9B7A-2C8E6F1A4B9D",
+    "name": "Jellyfin Branding",
+    "description": "Universal branding plugin that allows replacing Jellyfin branding with custom names, logos, icons, and assets without modifying core files.",
+    "overview": "Customize your Jellyfin instance branding with your own application name, favicon, touch icons, banners, splash screens, and PWA manifest. Simply place your assets in a branding folder and configure via the admin panel.",
+    "owner": "KeyboardDabbler",
+    "category": "General",
+    "imageUrl": "https://raw.githubusercontent.com/KeyboardDabbler/jf-branding-plugin/main/logo.png",
+    "versions": [
+      {
+        "version": "0.9.0",
+        "changelog": "Initial beta release with complete branding customization support",
+        "targetAbi": "10.10.0.0",
+        "sourceUrl": "https://github.com/KeyboardDabbler/jf-branding-plugin/releases/download/v0.9.0/JellyfinBranding.Plugin.dll",
+        "checksum": "467217ac5af74273c35cb82a9627862eb6d858b4d4e093c10228305af7f73a92",
+        "timestamp": "2025-08-08T03:30:00Z"
+      }
+    ]
+  }
+]
